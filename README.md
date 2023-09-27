@@ -2,15 +2,11 @@
 
 Here is a simple "Hello World" Program. I created this to learn how to use python, github and visual studio code together.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](C:\Users\Obeme\Documents\Recording #13.mp4)
+[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 *Visual Studio Code
-*Python 3.11.5
+*Python 3.11.5 64-bit
 *Git / Github
 
 # Useful Websites
